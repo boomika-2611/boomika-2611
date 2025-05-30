@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boomika-2611
-- 👀 I’m interested in Embedded system.
-- 🌱 I’m currently learning related to electronics.
-- 💞️ I’m looking to collaborate on Embedded and VLSI
+- 👀 I’m interested in Java Full Stack.
+- 🌱 I’m currently learning related to Full stack Development.
+- 💞️ I’m looking to collaborate more projects on Full Stack Domain
   
 
 <!---
